@@ -1,0 +1,1540 @@
+body {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+    box-sizing: border-box;
+}
+.block1{
+    left: 500px;
+}
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.fon1{
+    /* 23-09-20-7 1 */
+
+    position: absolute;
+    width: 1518px;
+    height: 665px;
+    left: 0px;
+    top: -21px;
+
+}
+.triangle1{
+    /* Rectangle 22 */
+
+    position: absolute;
+    width: 267px;
+    height: 45px;
+    left: 21px;
+    top: 536px;
+
+    background: #D9D9D9;
+
+}
+.triangle2{
+    /* Rectangle 21 */
+
+    position: absolute;
+    width: 267px;
+    height: 45px;
+    left: 309px;
+    top: 536px;
+
+    background: #D9D9D9;
+
+}
+.triangle3{
+    /* Rectangle 20 */
+
+    position: absolute;
+    width: 267px;
+    height: 45px;
+    left: 597px;
+    top: 536px;
+
+    background: #D9D9D9;
+
+}
+.txt1{
+    /* Беларусь в цифрах */
+
+    position: absolute;
+    width: 260px;
+    height: 32px;
+    left: 22px;
+    top: 543px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.txt2{
+    /* Наследия Беларуси */
+
+    position: absolute;
+    width: 271px;
+    height: 32px;
+    left: 309px;
+    top: 543px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.txt3{
+    /* Наши достижения */
+
+    position: absolute;
+    width: 252px;
+    height: 32px;
+    left: 597px;
+    top: 543px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.bigt1{
+    /* Rectangle 2 */
+
+    position: absolute;
+    width: 1167px;
+    height: 4002px;
+    left: 167px;
+    top: 604px;
+
+    background: #FFFFFF;
+    border-radius: 32px;
+
+}
+.txt4{
+    /* Источник наших ценностей - историческая память. В сложнейших условиях закалились многовековые духовно-нравственные ориентиры, сформировался настоящий белорусский характер. Сегодня больше говорится о Великой Отечественной войне, но это не означает забвение или неприятие других этапов развития государственности. В течение нашей жизни мы должны к этому вернуться, чтобы показать нашим детям и молодежи, - кто мы и откуда, что мы прошли и сколько потеряли человеческих жизней, стремясь к нашей независимости. */
+
+    position: absolute;
+    width: 850px;
+    height: 320px;
+    left: 413px;
+    top: 709px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.flag{
+    /* by_flagpole_640 1 */
+
+    position: absolute;
+    width: 178px;
+    height: 354px;
+    left: 199px;
+    top: 635px;
+}
+.txt5{
+    /* Беларусь в цифрах */
+
+    position: absolute;
+    width: 268px;
+    height: 32px;
+    left: 191px;
+    top: 1272px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.txt6{
+    /* В Беларуси под оккупацией, продолжавшейся почти три года, оказались около 8 млн жителей и около 900 тыс. советских военнопленных. Главным средством насаждения своего "нового порядка" нацисты избрали политику геноцида и массового террора. Концлагеря, тюрьмы, гетто действовали практически в каждом районе Беларуси. Всего в пределах республики было создано 260 лагерей смерти и 70 гетто. */
+
+    position: absolute;
+    width: 738px;
+    height: 288px;
+    left: 532px;
+    top: 1183px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.foto1{
+    /* Rectangle 3 */
+
+    position: absolute;
+    width: 379px;
+    height: 400px;
+    left: 174px;
+    top: 1524px;
+
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.foto2{
+    /* Rectangle 4 */
+
+    position: absolute;
+    width: 395px;
+    height: 400px;
+    left: 553px;
+    top: 1524px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.foto3{
+    /* Rectangle 5 */
+
+    position: absolute;
+    width: 393px;
+    height: 400px;
+    left: 933px;
+    top: 1524px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.txtf1{
+    /* Как всё начиналось? */
+
+    position: absolute;
+    width: 283px;
+    height: 32px;
+    left: 230px;
+    top: 1930px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.txtf2{
+    /* Дети войны */
+
+    position: absolute;
+    width: 161px;
+    height: 32px;
+    left: 670px;
+    top: 1930px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.txtf3{
+    /* Обелиски великого подвига */
+
+    position: absolute;
+    width: 404px;
+    height: 32px;
+    left: 975px;
+    top: 1930px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+
+.custom-btn {
+    text-align: center;
+    top: 2070px;
+    left: 580px;
+    padding: 20px 40px;
+    width: 350px;
+    height: 60px;
+    color: #fff;
+    border-radius: 5px;
+
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-1 {
+    background: white;
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-1:hover {
+    background: dimgray;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.custom-btnn {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    width: 350px;
+    height: 60px;
+    left: 560px;
+    top: 2900px;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-2 {
+    background: white;
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-2:hover {
+    background: dimgray;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.custom-btnnn {
+    position: absolute;
+    width: 469px;
+    height: 77px;
+    left: 523px;
+    top: 4309px;
+    padding: 25px 40px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-3 {
+    background: white;
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-3:hover {
+    background: dimgray;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.custom-btnnnn {
+    position: absolute;
+    width: 282px;
+    height: 48px;
+    left: 620px;
+    top: 5410px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    background: #ED8C8C;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-4 {
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-4:hover {
+    background: #ED8C8C;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.custom-btnnnnn{
+    position: absolute;
+    width: 282px;
+    height: 48px;
+    left: 1110px;
+    top: 5410px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    background: #ED8C8C;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-5 {
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-5:hover {
+    background: #ED8C8C;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.custom-btnnnnnn {
+    text-align: center;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 282px;
+    height: 48px;
+    left: 112px;
+    top: 5410px;
+
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-6 {
+    background: white;
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-6:hover {
+    background: #ED8C8C;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.custom-btnnnnnnn {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 2070px;
+    left: 580px;
+    width: 350px;
+    height: 60px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+}
+.btn-7 {
+    background: white;
+    color: black;
+    border: 1px solid dimgray;
+
+}
+.btn-7:hover {
+    background: dimgray;
+    color:white;
+    border: 1px solid dimgray;
+
+}
+.txt7{
+    /* Историко-культурные наследия Беларуси */
+
+    position: absolute;
+    width: 310px;
+    height: 64px;
+    left: 170px;
+    top: 2321px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+
+    color: #000000;
+
+
+}
+.txt8{
+    /* Республика Беларусь имеет богатое духовное наследие. Оно формировалось на протяжении веков и передавалось из поколения в поколение. Несмотря на разрушительные войны, стихийные бедствия, общество приумножало достижения предков, развивало науку, литературу, искусство, повышало свой культурно-образовательный, профессиональный уровень. Совокупность материальных и духовных благ, созданных обществом, и есть национальное богатство. */
+
+    position: absolute;
+    width: 745px;
+    height: 320px;
+    left: 532px;
+    top: 2208px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+
+.modal {
+    display: none; /* Скрыто по умолчанию */
+    position: fixed; /* Оставаться на месте */
+    z-index: 1; /* Сидеть на вершине */
+    left: 0;
+    top: 0;
+    width: 100%; /* Полная ширина */
+    height: 100%; /* Полная высота */
+    overflow: auto; /* Включите прокрутку, если это необходимо */
+    background-color: rgb(0,0,0); /* Цвет запасной вариант */
+    background-color: rgba(0,0,0,0.4); /* Черный с непрозрачностью */
+}
+
+/* Модальное содержание/коробка */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% сверху и по центру */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Может быть больше или меньше, в зависимости от размера экрана */
+}
+
+/* Кнопка закрытия */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.cont_1{
+    position: absolute;
+    top: 2100px;
+    left: 200px;
+    background: none;
+}
+.slf1{
+    max-width: 389px;
+    background: url("sl1.jpg");
+}
+.slf2{
+    max-width: 389px;
+    background: url("sl2.jpg");
+}
+.slf3{
+    max-width: 389px;
+    background: url("sl3.jpg");
+}
+.slf4{
+    max-width: 389px;
+    background: url("sl4.jpg");
+}
+.slf5{
+    max-width: 389px;
+    background: url("sl5.jpg");
+}
+.f1{
+    width: 390px;
+    height: 300px;
+}
+.f2{
+    width: 389px;
+    height: 300px;
+}
+.f3{
+    width: 389px;
+    height: 300px;
+}
+.f4{
+    width: 389px;
+    height: 300px;
+}
+.f5{
+    width: 389px;
+    height: 300px;
+}
+.trg1{
+    /* Rectangle 25 */
+
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    width: 150px;
+    height: 33px;
+
+    background: #D9D9D9;
+    border-radius: 62px;
+
+}
+.trg2{
+    /* Rectangle 25 */
+
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    width: 150px;
+    height: 33px;
+
+    background: #D9D9D9;
+    border-radius: 62px;
+
+
+}
+.trg3{
+    /* Rectangle 25 */
+
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    width: 150px;
+    height: 33px;
+
+    background: #D9D9D9;
+    border-radius: 62px;
+
+
+}
+.trg4{
+    /* Rectangle 25 */
+
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    width: 150px;
+    height: 33px;
+
+    background: #D9D9D9;
+    border-radius: 62px;
+
+
+}
+.trg5{
+    /* Rectangle 25 */
+
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    width: 150px;
+    height: 33px;
+
+    background: #D9D9D9;
+    border-radius: 62px;
+
+
+}
+.cont{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    top: 200px;
+    left: 10px;
+    border-radius: 62px;
+    border-color: white;
+    font-size: 13px;
+    font-family: Arial;
+}
+.cont_1{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    top: 200px;
+    left: 10px;
+    border-radius: 62px;
+    border-color: white;
+    font-size: 13px;
+    font-family: Arial;
+}
+.cont_2{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    top: 200px;
+    left: 10px;
+    border-radius: 62px;
+    border-color: white;
+    font-size: 13px;
+    font-family: Arial;
+}
+.cont_3{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    top: 200px;
+    left: 10px;
+    border-radius: 62px;
+    border-color: white;
+    font-size: 13px;
+    font-family: Arial;
+}
+.cont_4{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    top: 200px;
+    left: 10px;
+    border-radius: 62px;
+    border-color: white;
+    font-size: 13px;
+    font-family: Arial;
+}
+.t1{
+    /* Подробнее */
+
+    position: absolute;
+    width: 158px;
+    height: 41px;
+    left: 35px;
+    top: 200px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.t2{
+    /* Подробнее */
+
+    position: absolute;
+    width: 158px;
+    height: 41px;
+    left: 35px;
+    top: 200px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.t3{
+    /* Подробнее */
+
+    position: absolute;
+    width: 158px;
+    height: 41px;
+    left: 35px;
+    top: 200px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.t4{
+    /* Подробнее */
+
+    position: absolute;
+    width: 158px;
+    height: 41px;
+    left: 35px;
+    top: 200px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.t5{
+    /* Подробнее */
+
+    position: absolute;
+    width: 158px;
+    height: 41px;
+    left: 35px;
+    top: 200px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+}
+.butt1{
+    /* Rectangle 8 */
+
+    position: absolute;
+    width: 369px;
+    height: 77px;
+    left: 560px;
+    top: 2900px;
+    border-radius: 40px;
+
+    border: darkgrey;
+    background: beige;
+
+
+}
+.video{
+    /* Кнопка с видео */
+
+    position: absolute;
+    width: 218px;
+    height: 32px;
+    left: 699px;
+    top: 2923px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.video2{
+    /* Кнопка с видео */
+
+    position: absolute;
+    width: 218px;
+    height: 32px;
+    left: 711px;
+    top: 4332px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.but5{
+    /* Rectangle 10 */
+
+    position: absolute;
+    width: 469px;
+    height: 77px;
+    left: 523px;
+    top: 4309px;
+    border-radius: 30px;
+
+    background: rgba(130, 130, 130, 0.57);
+
+}
+.txt21{
+    /* Наши достижения */
+
+    position: absolute;
+    width: 260px;
+    height: 32px;
+    left: 168px;
+    top: 3245px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.txt22{
+    /* Белорусские ученые уже давно известны за пределами нашей страны. За последние годы получили мировое признание многочисленные отечественные разработки - такие как самые большие карьерные самосвалы, современные электробусы, прототипы электромобиля, супероптика и другие. Многие интересные изобретения неизвестны широкой аудитории, но, определенно, заслуживают ее внимания. Наши светлые умы работают в различных отраслях и создают вещи, которые в значительной мере упрощают и улучшают жизнь. */
+
+    position: absolute;
+    width: 755px;
+    height: 384px;
+    left: 532px;
+    top: 3092px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.ssilka1{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    top: 3450px;
+    left: 167px;
+    background: #888888;
+    border: none;
+}
+.ssilka2{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    top: 3450px;
+    left: 835px;
+    background: none;
+}
+.ssilka3{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    top: 3800px;
+    left: 500px;
+    background: none;
+}
+.med{
+    position: absolute;
+    top: 200px;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+}
+.sport{
+    position: absolute;
+    top: 170px;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+}
+.but3{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    top: 230px;
+    left: 220px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+}
+.but4{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    top: 248px;
+    left: 60px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+}
+
+.stat{
+    position: absolute;
+    top: 200px;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+
+}
+.razm{
+    width: 500px;
+    height: 300px;
+    border: none;
+}
+.but2{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    top: 255px;
+    left: 220px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+
+}
+.niz{
+    /* Rectangle 11 */
+
+    position: absolute;
+    width: 1517px;
+    height: 1713px;
+    left: 0px;
+    top: 4549px;
+
+    background: rgba(72, 75, 82, 0.6);
+    opacity: 0.88;
+
+}
+.post2{
+    position: absolute;
+    width: 369px;
+    height: 77px;
+    left: 560px;
+    top: 2900px;
+    border-radius: 40px;
+
+}
+.niz2{
+    /* Rectangle 11 */
+
+    position: absolute;
+    width: 1517px;
+    height: 40px;
+    left: 0px;
+    top: 6270px;
+
+    background: rgba(72, 75, 82, 0.6);
+    opacity: 0.88;
+
+}
+.bud{
+    /* Мы - будущее страны! */
+
+    position: absolute;
+    width: 409px;
+    height: 40px;
+    left: 622px;
+    top: 4600px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 33px;
+    line-height: 40px;
+    text-align: justify;
+
+    color: #FFFFFF;
+}
+.triangle4{
+    /* Rectangle 12 */
+
+    position: absolute;
+    width: 437px;
+    height: 769px;
+    left: 35px;
+    top: 4730px;
+
+    background: #FFFFFF;
+
+}
+.triangle5{
+    /* Rectangle 15 */
+
+    position: absolute;
+    width: 437px;
+    height: 767px;
+    left: 537px;
+    top: 4730px;
+
+    background: #FFFFFF;
+
+}
+.triangle6{
+    /* Rectangle 16 */
+
+    position: absolute;
+    width: 437px;
+    height: 767px;
+    left: 1035px;
+    top: 4730px;
+
+    background: #FFFFFF;
+
+}
+.txt40{
+    /* От истоков до наших дней */
+
+    position: absolute;
+    width: 360px;
+    height: 30px;
+    left: 72px;
+    top: 4750px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt41{
+    /* Молодечненский район */
+
+    position: absolute;
+    width: 332px;
+    height: 32px;
+    left: 72px;
+    top: 4785px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt42{
+    /* Гуманитарный проект осуществляется в ГУО "Лебедевская средняя школа Молодечненского района", где важным звеном обученния является историко-краеведческий музей "Спадчына". Он основан в 1984 году ... */
+
+    position: absolute;
+    width: 412px;
+    height: 405px;
+    left: 50px;
+    top: 5100px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt43{
+    /* Посмотреть */
+
+    position: absolute;
+    width: 162px;
+    height: 32px;
+    left: 183px;
+    top: 5420px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+}
+.txt50{
+    /* “Живая рука” и браслет заботы */
+
+    position: absolute;
+    width: 422px;
+    height: 32px;
+    left: 559px;
+    top: 4750px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt51{
+    /* Екатерина Зайцева из Витебского района */
+
+    position: absolute;
+    width: 367px;
+    height: 21px;
+    left: 568px;
+    top: 4785px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 21px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt52{
+    /* Что скрывается за великими изобретениями? Возьмите годы кропотливой работы, разбавьте их десятками экспериментов и допущенных ошибок, внезапными прозрениями и неиссякаемым энтузиазмом. И вот идея на миллион готова. */
+
+    position: absolute;
+    width: 404px;
+    height: 320px;
+    left: 548px;
+    top: 5100px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt53{
+    /* Посмотреть */
+
+    position: absolute;
+    width: 162px;
+    height: 32px;
+    left: 689px;
+    top: 5420px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+}
+.txt60{
+    /* Экологические проблемы- решаем вместе */
+
+    position: absolute;
+    width: 368px;
+    height: 64px;
+    left: 1060px;
+    top: 4750px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt61{
+    /* В последнее время экологические проблемы становятся все более масштабными. Во многих странах уже давно приняты меры по их решению. Для этого издают законы, проводят многочисленные акции. А как с этим обстоят дела в нашей стране? */
+
+    position: absolute;
+    width: 411px;
+    height: 320px;
+    left: 1050px;
+    top: 5100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt62{
+    /* Посмотреть */
+
+    position: absolute;
+    width: 162px;
+    height: 32px;
+    left: 1190px;
+    top: 5420px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.baba{
+    /* 31f1b26732711bf2a35f92861cd10100 1 */
+
+    position: absolute;
+    width: 360px;
+    height: 233px;
+    left: 574px;
+    top: 4825px;
+
+    background: url(baba.jpg);
+    border-radius: 7px;
+}
+.lydi{
+    /* 002340_192502 1 */
+
+    position: absolute;
+    width: 360px;
+    height: 233px;
+    left: 69px;
+    top: 4825px;
+
+    background: url(lydi.jpg);
+    border-radius: 7px;
+}
+.gryaz{
+    /* 1564148681 1 */
+
+    position: absolute;
+    width: 366px;
+    height: 233px;
+    left: 1069px;
+    top: 4825px;
+
+    background: url(gryaz.jpg);
+    border-radius: 7px;
+}
+.posm1{
+    /* Rectangle 17 */
+
+    position: absolute;
+    width: 282px;
+    height: 48px;
+    left: 112px;
+    top: 5410px;
+
+    background: #ED8C8C;
+
+}
+.posm2{
+    /* Rectangle 17 */
+
+    position: absolute;
+    width: 282px;
+    height: 48px;
+    left: 620px;
+    top: 5410px;
+
+    background: #ED8C8C;
+
+}
+.posm3{
+    /* Rectangle 17 */
+
+    position: absolute;
+    width: 282px;
+    height: 48px;
+    left: 1110px;
+    top: 5410px;
+
+    background: #ED8C8C;
+}
+.opros{
+    /* Как вы считаете, какие гуманитарные проекты помогут в развитии большего патриотизма у молодежи? */
+
+    position: absolute;
+    width: 808px;
+    height: 64px;
+    left: 600px;
+    top: 5550px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: justify;
+
+    color: #FFFFFF;
+}
+.opros1{
+    /* Rectangle 23 */
+
+    position: absolute;
+    width: 839px;
+    height: 388px;
+    left: 600px;
+    top: 5630px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+.opros2{
+    /* Оставьте ваш отзыв (не более 600 символов) */
+
+    position: absolute;
+    width: 594px;
+    height: 32px;
+    left: 650px;
+    top: 5650px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: rgba(0,0,0,0.5);
+}
+.opros3{
+    /* Rectangle 24 */
+
+    position: absolute;
+    width: 343px;
+    height: 66px;
+    left: 860px;
+    top: 6100px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+.opros4{
+    /* Отправить */
+
+    position: absolute;
+    width: 146px;
+    height: 32px;
+    left: 970px;
+    top: 6121px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+}
+.sticker{
+    /* sticker 1 */
+
+    position: absolute;
+    width: 499px;
+    height: 458px;
+    left: 0px;
+    top: 5807px;
+
+
+}

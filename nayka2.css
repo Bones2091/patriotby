@@ -1,0 +1,283 @@
+.medicine{
+    /* 8c9088875823c8346e1f17033ac0d1dd 1 */
+
+    position: absolute;
+    width: 1518px;
+    height: 842px;
+    left: 0px;
+    top: 0px;
+
+}
+.dost{
+    /* Достижения белорусской медицины */
+
+    position: absolute;
+    width: 974px;
+    height: 191px;
+    left: 290px;
+    top: 598px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.firsttxt{
+    /* Первое место в мире по доступности медицинской помощи */
+
+    position: absolute;
+    width: 908px;
+    height: 29px;
+    left: 47px;
+    top: 789px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+    text-transform: uppercase;
+
+    color: white;
+}
+.txt{
+    /* Сегодня в РНПЦ "Мать и дитя" привозят самых тяжелых пациентов со всей страны */
+
+    position: absolute;
+    width: 644px;
+    height: 58px;
+    left: 730px;
+    top: 960px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.f1{
+    /* п 1 */
+
+    position: absolute;
+    width: 651px;
+    height: 457px;
+    left: 34px;
+    top: 943px;
+    opacity: 0.7;
+
+}
+.txt1{
+    /* Немаловажно, что здесь созданы все условия для комфорта рожениц. Рядом всегда могут находиться друзья и родные. Организовывают и партнерские роды. В реанимацию к недоношенным детям молодых мам пускают ежедневно. Этот малыш весит 900 граммов. Он будет находиться в специальном кювезе, пока не научится самостоятельно дышать и не наберет еще 600 граммов. Когда вес достигнет полутора килограмма, его переложат в обычную кроватку. Вообще здесь выхаживают детей от 500 граммов. А некоторые процедуры проводят даже до рождения малышей. */
+
+    position: absolute;
+    width: 644px;
+    height: 377px;
+    left: 730px;
+    top: 1040px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.line{
+    /* Line 1 */
+
+    position: absolute;
+    width: 409px;
+    left: 837px;
+    top: 1025px;
+}
+.line2{
+    /* Line 1 */
+
+    position: absolute;
+    width: 409px;
+    left: 409px;
+    top: 2596px;
+}
+.txt2{
+    /* Сегодня операции на сердце новорожденных делают уже на первом часу жизни */
+
+    position: absolute;
+    width: 1037px;
+    height: 29px;
+    top: 1450px;
+    left: 200px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.txt3{
+    /* За четверть века независимости наши неонатологи научились лечить все известные формы врожденных пороков сердца - а их 250. Совсем недавно впервые провели трансплантацию главного органа 10-летней девочке. Это самая маленькая пациентка, которой пересадили сердце. И все же главным достижением белорусских кардиологов принято считать даже не многочисленные пересадки. Гордятся тем, что многие операции научились делать без скальпеля, или на языке докторов -малоинвазивными. Ведь после таких вмешательств пациенты могут вернуться к своей обычной жизни буквально через пару дней. */
+
+    position: absolute;
+    width: 1165px;
+    height: 203px;
+    top: 1500px;
+    left: 200px;
+    text-align: justify;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.mediki{
+    /* image 1 */
+
+    position: absolute;
+    width: 806px;
+    height: 418px;
+    left: 350px;
+    top: 1730px;
+    border: white;
+}
+.txt4{
+    /* Основными принципами профилактической направленности являются: */
+
+    position: absolute;
+    width: 933px;
+    height: 29px;
+    top: 2230px;
+    left: 400px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.rect1{
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 1512px;
+    height: 200px;
+    left: 0px;
+    top: 2280px;
+
+    background: #A6D1D7;
+    opacity: 0.5;
+}
+.rect2{
+    position: absolute;
+    width: 1512px;
+    height: 100px;
+    left: 0px;
+    top: 2330px;
+}
+.txt5{
+    /* Хирургия и трансплантация органов - то, чем славятся наши врачи на весь мир */
+
+    position: absolute;
+    width: 859px;
+    height: 58px;
+    left: 203px;
+    top: 2550px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt6{
+    /* Достаточно сказать, что экспорт услуг профильного столичного центра за десятилетие вырос в 42 раза! Число операций приближается к пяти тысячам. Но главным своим достижением наши врачи считают даже не это. А то, что после пересадок женщины рожают абсолютно здоровых малышей! В Беларуси, кстати, живет единственная в мире женщина, которая родила уже двоих после сложнейшей пересадки печени вместе с почкой. Нашу страну периодически находим в различных показательных рейтингах. По комфорту материнства и детства - в тридцатке стран мира. Белорусы - бесспорные аутсайдеры младенческой смертности. Ее уровень - один из самых низких в Европе. И это, как показал минувший год, исторический рекорд для наших медиков, которые сегодня спасают даже самые крохотные жизни. */
+
+    position: absolute;
+    width: 859px;
+    height: 377px;
+    left: 203px;
+    top: 2617px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.medik{
+    /* image 2 */
+
+    position: absolute;
+    width: 1512px;
+    height: 623px;
+    left: -2px;
+    top: 3035px;
+
+    opacity: 0.15;
+}
+.txt7{
+    /* В прошлом году белорусские трансплантологи отметили 10 лет с того дня, как впервые пересадили печень */
+
+    position: absolute;
+    width: 966px;
+    height: 58px;
+    top: 3100px;
+    left:300px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+.txt8{
+    /* Сейчас эта операция доведена до автоматизма. Ежегодно в нашей стране проводят около 70 трансплантаций печени в год. Беларусь уже много лет не покидает первые строчки в топе стран с развитой трансплантологией. Освоены также повторные пересадки и мультитрансплантации (одновременно нескольких органов). Неслучайно в нашу страну ежегодно приезжают на учебу доктора со всего мира. И пациенты, которые, может быть, и не знают русский язык, но могут с уверенностью назвать Беларусь местом своего второго рождения. И ведь даже тех, кто появляется на свет раньше срока с экстремально низкой массой тела, как правило, удается выходить. Эти и многие другие успехи Беларуси замечены Всемирной организацией здравоохранения. Не раз европейское бюро ставило Беларусь в пример. За этой высокой оценкой - огромный труд и самоотдача тысяч специалистов самого высокого класса, для которых борьба за жизнь и здоровье людей стала делом всей жизни. */
+
+    position: absolute;
+    width: 1284px;
+    height: 290px;
+    top: 3300px;
+    left: 120px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: rgba(0, 0, 0, 0.5);
+
+
+}

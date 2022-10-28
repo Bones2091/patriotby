@@ -1,0 +1,450 @@
+.nayka{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.txt{
+    /* За последнюю четверть века белорусские ученые достигли серьезных успехов и стали участниками крупнейших международных проектов */
+
+    position: absolute;
+    width: 1067px;
+    height: 49px;
+    left: 334px;
+    top: 30px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+    text-transform: uppercase;
+
+    color: #000000;
+
+
+}
+.txt2{
+    /* Наука в беларуси */
+
+    position: absolute;
+    width: 486px;
+    height: 50px;
+    left: 85px;
+    top: 419px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+    text-transform: uppercase;
+
+    color: #090909;
+}
+.block{
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 526px;
+    height: 501px;
+    left: 179px;
+    top: 784.5px;
+
+    background: #E9E9E9;
+
+}
+.myjiki{
+    /* г 1 */
+
+    position: absolute;
+    width: 530px;
+    height: 501px;
+    left: 773px;
+    top: 785px;
+
+    opacity: 0.7;
+
+}
+.txt3{
+    /* В Беларуси успешно работают авторитетные научные школы мирового уровня по ряду фундаментальных направлений, включая оптику, квантовую электронику и фотонику, математику, теплофизику и энергетику, материаловедение, машиностроение, геологию, генетику и цитологию, биоорганическую химию, аграрные и общественные науки. */
+
+    position: absolute;
+    width: 439px;
+    height: 385px;
+    left: 223px;
+    top: 867px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.txt4{
+    /* Вклад в инновационную экономику */
+
+    position: absolute;
+    width: 575px;
+    height: 37px;
+    top: 1376px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt5{
+    /* В начале 2000-х в Беларуси был взят курс на развитие инновационной экономики. И сегодня тематика фундаментальных и прикладных исследований НАН формируется под ее приоритеты. На данный момент окупаемость научных проектов составляет от 5 до 100 рублей на 1 рубль затрат. */
+
+    position: absolute;
+    width: 1124px;
+    height: 116px;
+    left: 179px;
+    top: 1441px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: rgba(0, 0, 0, 0.5);
+
+
+}
+.block2{
+    /* Rectangle 3 */
+
+    position: absolute;
+    width: 100%;
+    height: 470px;
+    left: 0px;
+    top: 1641px;
+
+    background: #E9E9E9;
+
+}
+.txt6{
+    /* “ */
+
+    position: absolute;
+    width: 31px;
+    height: 91px;
+    left: 148px;
+    top: 1845px;
+
+    font-family: 'Georgia';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 91px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #777777;
+
+
+}
+.txt7{
+    /* — Мировая наука имеет ярко выраженный практико-ориентированный характер, и наша страна не исключение, — говорит председатель Президиума НАН Владимир Гусаков. — Сегодня НАН — мощная научно-производственная корпорация, центры, объединения, опытные производства и экспериментальные базы которой выпускают наукоемкую продукцию, изготовленную в большинстве случаев по отечественным технологиям. Поскольку бюджетные средства составляют только четверть необходимых объемов финансовых ресурсов, все остальное академия должна заработать. Поэтому мы активно участвуем во всех государственных программах, программах развития отраслей, Союзного государства, инновационных проектах министерств, ведомств и предприятий. Привлекаем иностранные гранты, работаем с зарубежными научными центрами. Без ложной скромности могу сказать, что уровень наших специалистов очень высок — мы постоянно получаем заказы на выполнение исследований или разработок. */
+
+    position: absolute;
+    width: 1094px;
+    height: 406px;
+    left: 281px;
+    top: 1725px;
+
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt8{
+    /* На базе научных организаций НАН Беларуси действуют 16 международных центров и лабораторий по разработке и адаптации передовых технологий и их продвижению на зарубежные рынки. Академия имеет договоры о сотрудничестве с 90 иностранными академиями и научными центрами. Наши организации выполняют экспортные контракты с 59 государствами, наиболее масштабно — с Россией, Саудовской Аравией, Китаем, Украиной, Германией, Индией. Реализуются новые договоренности и экспортные контракты с коллегами из Австрии, Азербайджана, Армении, Венесуэлы, Вьетнама, Грузии, Индонезии, Ирана, Нидерландов, Польши, США, Туркменистана, Турции, Франции, Эквадора и других стран. */
+
+    position: absolute;
+    width: 1130px;
+    height: 290px;
+    left: 179px;
+    top: 2339px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.txt9{
+    /* Собственный спутник */
+
+    position: absolute;
+    width: 352px;
+    height: 37px;
+    top: 2600px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt10{
+    /* Предмет особой гордости — наша космическая отрасль. Мы работаем над новым спутником дистанционного зондирования Земли, который придет на смену тому, что сейчас несет вахту на орбите. В планах развитие целой сети малогабаритных аппаратов. Самым знаковым научным проектом независимой Беларуси несомненно стал собственный спутник дистанционного зондирования Земли. А дата 22 июля 2012 года, когда аппарат был выведен на орбиту, ознаменовала вхождение страны в список космических держав. Для ученых, которые трудились над проектом, это было непростое время. */
+
+    position: absolute;
+    width: 1130px;
+    height: 232px;
+    left: 179px;
+    top: 2700px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.block3{
+    /* Rectangle 4 */
+
+    position: absolute;
+    width: 100%;
+    height: 470px;
+    left: 0px;
+    top: 3085px;
+
+    background: #E9E9E9;
+
+}
+.txt11{
+    /* “ */
+
+    position: absolute;
+    width: 31px;
+    height: 91px;
+    left: 148px;
+    top: 3275px;
+
+    font-family: 'Georgia';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 91px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #777777;
+
+
+}
+.txt12{
+    /* — Старт то и дело откладывался по разным весомым причинам, — вспоминает академик НАН Беларуси Петр Витязь. — Мы очень волновались — заставили российских коллег проверить и перепроверить все несколько раз. А когда ракета-носитель “Союз” оторвалась от земли — казалось, время остановилось. В тот момент, когда стало понятно, что все прошло отлично, многие не сдерживали слез. Ведь завершился успехом самоотверженный труд многих людей. Сейчас Беларусь входит в число космических держав, мы проводим серьезнейшие исследования и имеем уникальные разработки. Это признано во всем мире — в сентябре 2018 года Минск принимал XXXI Международный конгресс Ассоциации участников космических полетов. Дорога к успеху была трудной, но интересной. Впрочем, я уверен, что мы только в начале пути. */
+
+    position: absolute;
+    width: 1085px;
+    height: 319px;
+    top: 3180px;
+    left: 281px;
+
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.txt13{
+    /* Большой адронный коллайдер */
+
+    position: absolute;
+    width: 499px;
+    height: 37px;
+    top: 3600px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+.txt14{
+    /* Большой адронный коллайдер (ускоритель заряженных частиц на встречных пучках, предназначенный для разгона протонов и тяжелых ионов и изучения продуктов их соударений) построен на границе Швейцарии и Франции. БАК является самой крупной экспериментальной установкой в мире. В строительстве и исследованиях участвовали и участвуют более 10 тысяч ученых и инженеров более чем из 100 стран, в том числе и наши ученые из Института физики НАН Беларуси, Национального центра физики частиц высоких энергий БГУ, НИИ ядерных проблем БГУ. Они принимают активное участие во всех экспериментах, как дистанционных, так и непосредственно проходящих на БАК. В 2015 году стартовал очередной этап исследований. Как члены коллабораций ATLAS и CMS белорусы имели обязательства отработать порядка 60 условных смен на центральном посту управления. Кроме того, наши физики задействованы в работе по обслуживанию (анализ текущего состояния и поддержка работоспособности) различных частей установки. К примеру, тех, в разработке и постройке которых принимали участие: торцевых электронного и адронного калориметров, мюонных стриповых камер. Сейчас БАК официально закрыт на ремонт, но продолжает работать в “усеченном” режиме. Например, недавно в СМИ появилось сообщение об открытии новых фундаментальных частиц — пентакварков. */
+
+    position: absolute;
+    width: 1130px;
+    height: 522px;
+    left: 179px;
+    top: 3700px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.txt15{
+    position: absolute;
+    width: 1130px;
+    height: 522px;
+    left: 179px;
+    top: 3950px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+.txt16{
+    /* ВАЖНЫЕ ДАТЫ */
+
+    position: absolute;
+    width: 201px;
+    height: 29px;
+    left: 620px;
+    top: 4378px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #34290E;
+
+
+}
+.txt17{
+    /* 1—2 ноября 2007 года — состоялся крупнейший на постсоветском пространстве научный форум — I Съезд ученых Республики Беларусь. */
+
+    position: absolute;
+    width: 325px;
+    height: 174px;
+    top:4480px;
+    left: 100px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: rgba(0, 0, 0, 0.5);
+
+
+}
+.txt18{
+    /* 22 июля 2012 года — с космодрома Байконур был запущен белорусский спутник дистанционного зондирования Земли. Наша страна вошла в список мировых космических держав. */
+
+    position: absolute;
+    width: 383px;
+    height: 81px;
+    top: 4480px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: rgba(0, 0, 0, 0.5);
+
+
+}
+.txt19{
+    /* 5 декабря 2014 года — в рамках Государственной программы “Инновационные биотехнологии” на базе Института биофизики и клеточной инженерии НАН Беларуси открыт уникальный научно-медицинский центр “Клеточные технологии”. */
+
+    position: absolute;
+    width: 383px;
+    height: 232px;
+    top: 4480px;
+    right: 100px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: rgba(0, 0, 0, 0.5);
+
+
+}
+.line1{
+    /* Line 2 */
+
+    position: absolute;
+
+    height: 300px;
+    left: 480px;
+    top: 4440px;
+
+
+}
+.line2{
+    /* Line 2 */
+
+    position: absolute;
+
+    height: 300px;
+    left: 1000px;
+    top: 4440px;
+
+
+}
